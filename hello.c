@@ -3,7 +3,7 @@
  * Email: zbari2@huskers.unl.edu
  * Date: 2023/09/19
  *
- * code that prints your name and major
+ * Code that prints your name and major
 */
 
 #include <stdlib.h>
